@@ -16,4 +16,6 @@
 
 ![greeting](img.png)
 
-[Live](https://spring-azure-cloud-jordycodertest.azuremicroservices.io)
+
+
+[PRESS here to see the webapp live](https://spring-azure-cloud-jordycodertest.azuremicroservices.io/greeting)
