@@ -15,3 +15,5 @@
 [Application with Spring Boot](https://spring.io/guides/gs/rest-service/)
 
 ![greeting](img.png)
+
+[Live](https://spring-azure-cloud-jordycodertest.azuremicroservices.io)
